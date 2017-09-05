@@ -3,9 +3,15 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+<<<<<<< Updated upstream
+=======
+import '../theme/index.css'
+>>>>>>> Stashed changes
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-default/index.css'
 
+/* eslint-disable no-new */
+Vue.use(ElementUI)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
