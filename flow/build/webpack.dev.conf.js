@@ -42,7 +42,7 @@ module.exports = merge(baseWebpackConfig, {
       // Host that will be used in `server` mode to start HTTP server.
       analyzerHost: 'localhost',
       // Port that will be used in `server` mode to start HTTP server.
-      analyzerPort: 9999,
+      analyzerPort: 8087,
       // Path to bundle report file that will be generated in `static` mode.
       // Relative to bundles output directory.
       reportFilename: 'report.html',
