@@ -14,11 +14,5 @@
       "presets": ["env", "stage-2"],
       "plugins": ["istanbul"]
     }
-  },
-  "plugins": [["component", [
-    {
-      "libraryName": "element-ui",
-      "styleLibraryName": "~theme"
-    }
-  ]]]
+  }
 }
